@@ -2,57 +2,57 @@
     {
         "title": "歌声与微笑",
         "artist": "合唱",
-        "cover": "/music/fm/hzx.jpg",
-        "url": "/music/歌声与微笑.mp3",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/f0ea4b098cd33127848f3f377a6e2ded.jpg",
+        "url": "https://livefile.xesimg.com/programme/python_assets/60fde440234d6ba0b2541fc6268ecb71.mp3",
         "duration": "03:26"
     },
     {
         "title": "亚细亚的孤儿",
         "artist": "罗大佑",
-        "cover": "/music/fm/wldzrw.jpg",
-        "url": "/music/亚细亚的孤儿.m4a",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/434f4555291cb94be7b017b090e28165.jpg",
+        "url": "https://livefile.xesimg.com/programme/python_assets/24f9ab476387b3cf29b47be472361771.m4a",
         "duration": "05:50"
     },
     {
         "title": "火车",
         "artist": "罗大佑",
-        "cover": "/music/fm/yx.jpg",
-        "url": "/music/火车.mp3",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/5afe0ac2df246302498adead4b7a0645.jpg",
+        "url": "https://livefile.xesimg.com/programme/python_assets/9e5ed767553684400021281b8b46a70a.mp3",
         "duration": "04:28"
     },
     {
         "title": "春庭雪",
         "artist": "邓寓君(等什么君)",
-        "cover": "/music/fm/x.webp",
-        "url": "/music/春庭雪.mp3",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/e2c854f972e50aee4f07aab571f82101.webp",
+        "url": "https://livefile.xesimg.com/programme/python_assets/928ecb3ce86c8f20d9cfb252cd856f96.mp3",
         "duration": "07:03"
     },
     {
         "title": "恋曲1990",
         "artist": "罗大佑",
-        "cover": "/music/fm/artz.webp",
-        "url": "/music/恋曲1990.mp3",
+        "cover": https://livefile.xesimg.com/programme/python_assets/72325eb6e5c45a3cce057eb2dfd09532.webp",
+        "url": "https://livefile.xesimg.com/programme/python_assets/d0a5594ef14528fe96931ec1b5127427.mp3",
         "duration": "02:05"
     },
     {
         "title": "之乎者也",
         "artist": "罗大佑",
-        "cover": "/music/fm/zhzy.webp",
-        "url": "/music/之乎者也.mp3",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/e97d704985ac6f1e30dfa3fe677fce53.webp",
+        "url": "https://livefile.xesimg.com/programme/python_assets/bffadde151ef7d05a428fb88039d9559.mp3",
         "duration": "02:05"
     },
     {
         "title": "长征",
         "artist": "罗大佑",
-        "cover": "/music/fm/yx.jpg",
-        "url": "/music/长征.mp3",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/5afe0ac2df246302498adead4b7a0645.jpg",
+        "url": "https://livefile.xesimg.com/programme/python_assets/87a9bc6bf9deb70dddbfb9f031161cd3.mp3",
         "duration": "05:14"
     },
     {
         "title": "你的样子",
         "artist": "罗大佑",
-        "cover": "/music/fm/artz.webp",
-        "url": "/music/你的样子.mp3",
+        "cover": "https://livefile.xesimg.com/programme/python_assets/72325eb6e5c45a3cce057eb2dfd09532.webp",
+        "url": "https://livefile.xesimg.com/programme/python_assets/00e0327defb6c3b69b7b27f2ca273549.mp3",
         "duration": "03:30"
     }
 ]
