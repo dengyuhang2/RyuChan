@@ -3,7 +3,7 @@ site:
   title: RyuChan
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
-  favicon: /favicon.png
+  favicon: /favicon.ico
   theme:
     light: garden
     dark: dracula
@@ -113,7 +113,7 @@ umami:
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
-  name: KoBariDev
+  name: '666'
   description: Ciallo～(∠・ω<)⌒★
   site: https://hub.xiaozhangya.xin
   avatar: /profile.png
