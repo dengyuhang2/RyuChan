@@ -111,7 +111,7 @@ user:
         title: Email
         ariaLabel: Email
         svg: ri:mail-line
-      - href: t.me/jm345678
+      - href: https://t.me/jm345678
         title: Telegram
         ariaLabel: Telegram
         svg: ri:telegram-line
